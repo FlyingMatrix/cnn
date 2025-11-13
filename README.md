@@ -1,5 +1,5 @@
-# Convolutional Neural Network (CNN) 
-A pytorch Convolutional Neural Network (CNN) implementation for image classification
+# CNN 
+A pytorch implementation of Convolutional Neural Network (CNN) for image classification
 
 Dataset: CIFAR-10 
 
